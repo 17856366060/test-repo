@@ -4,4 +4,5 @@ public class sos {
 	int s;
 	int x;
   int y;
+  	int c;
 }
