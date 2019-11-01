@@ -4,5 +4,5 @@ public class java {
   int x;
   int b;
   int a;
-
+  int d;
 }
